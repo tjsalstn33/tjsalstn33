@@ -54,11 +54,6 @@
  - LLM 최적화 및 파인튜닝 (LoRA, RAG, Prompt Engineering)
  - 멀티모달 학습 및 활용 (텍스트+이미지, 영상 기반 AI)
 
-## 🏆 Awards
-| 순번 | 취득일 | 수상 |
-|------|--------|------|
-| 🔜 | Coming Soon | Preparing for upcoming competitions |
-
 ## 📫 Contact
 - **Email**: tjsalstn33@naver.com
 - **Instagram**: [@be_throns](https://www.instagram.com/be_thorns/)
