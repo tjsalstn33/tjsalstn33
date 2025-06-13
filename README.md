@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Minsoo SUN
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsalstn33)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsalstn33)
 
 
 ## 🚀 About Me
