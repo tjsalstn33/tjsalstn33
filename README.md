@@ -51,7 +51,7 @@
  - 멀티모달 학습 및 활용 (텍스트+이미지, 영상 기반 AI)
 
 ## 📫 Contact
-- **Email**: tjsalstn33@naver.com
+- **Email**: mssun@cotons.ai
 - **Instagram**: [@be_throns](https://www.instagram.com/be_thorns/)
 
 
